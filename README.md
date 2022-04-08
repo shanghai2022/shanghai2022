@@ -20,7 +20,7 @@
 
 👉奉贤区：https://mp.weixin.qq.com/s/9KeKJl-MWUheWueUglQ77A
 
-👉普陀区：https://mp.weixin.qq.com/s/IgL9_v9XkSDk4pdjrluGQg
+👉普陀区：_https://mp.weixin.qq.com/s/IgL9_v9XkSDk4pdjrluGQg_ (已失效)
 
 👉徐汇区：https://mp.weixin.qq.com/s/8-5df3S3e07611-LjCNOhA
 
