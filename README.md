@@ -50,7 +50,7 @@
  
 - [上海疫情期间生活指南](https://www.wolai.com/6TLbKJYT1JTq3cFqXTWVXC)
 
-# 自救团购物资与医疗信息汇总：
+## 自救团购物资与医疗信息汇总
 
 - [上海医院停复诊信息｜互联网医院问诊取药｜心理援助｜物资援助](https://docs.qq.com/sheet/DUGtlbFZpYUROZVlC)
 - [上海医疗紧急求助](https://docs.qq.com/sheet/DQkxnQmxjYndhdGlX)
