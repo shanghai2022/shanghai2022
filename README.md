@@ -2,6 +2,8 @@
 
 ## 物资购买渠道
 
+- [上海团购物资资源网盘](https://pan.baidu.com/s/11Rgysl9idb3m1UUFot6IRQ?pwd=v4hi) 提取码: v4hi 
+- [上海小区团购资源](https://docs.qq.com/sheet/DTkV3Ulp0aGtZUmtp)
 - [上海-各类物资采购渠道_0407](https://docs.qq.com/sheet/DSnBQbFFidmNQTFlQ?tab=BB08J2&scode=)
 
 ### 各区采购物资攻略
@@ -47,6 +49,14 @@
 ## 生活相关
  
 - [上海疫情期间生活指南](https://www.wolai.com/6TLbKJYT1JTq3cFqXTWVXC)
+
+# 自救团购物资与医疗信息汇总：
+
+- [上海医院停复诊信息｜互联网医院问诊取药｜心理援助｜物资援助](https://docs.qq.com/sheet/DUGtlbFZpYUROZVlC)
+- [上海医疗紧急求助](https://docs.qq.com/sheet/DQkxnQmxjYndhdGlX)
+
+
+
 
 
 ## 高校
