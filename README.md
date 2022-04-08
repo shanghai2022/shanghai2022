@@ -8,3 +8,8 @@
 ## 抢菜
 
 - [叮咚买菜抢菜插件](https://mp.weixin.qq.com/s/7L5HSl0rirHjcZovoyIFMg)
+
+
+## 生活相关
+ 
+- [上海疫情期间生活指南](https://www.wolai.com/6TLbKJYT1JTq3cFqXTWVXC)
