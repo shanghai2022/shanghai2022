@@ -49,14 +49,18 @@
 ## 生活相关
  
 - [上海疫情期间生活指南](https://www.wolai.com/6TLbKJYT1JTq3cFqXTWVXC)
+- [魔都防疫指南2.0](https://shimo.im/docs/0l3NV5lEwOfpQx3R/read)
+- [上海疫情守望互助指南 (by 海上指南针)](https://shimo.im/docs/loqeWyQor8SLYYAn/read)
+- [上海疫情期间线上活动汇总](https://docs.qq.com/sheet/DR3p2dmF4Znh6Rlp0?tab=BB08J2&scode=)
 
 ## 自救团购物资与医疗信息汇总
 
 - [上海医院停复诊信息｜互联网医院问诊取药｜心理援助｜物资援助](https://docs.qq.com/sheet/DUGtlbFZpYUROZVlC)
 - [上海医疗紧急求助](https://docs.qq.com/sheet/DQkxnQmxjYndhdGlX)
 
+## 宠物
 
-
+- [宠物治疗、安置渠道与保护对策](https://shimo.im/docs/RKAWVwze17Tjgk8X/read)
 
 
 ## 高校
