@@ -13,3 +13,8 @@
 ## 生活相关
  
 - [上海疫情期间生活指南](https://www.wolai.com/6TLbKJYT1JTq3cFqXTWVXC)
+
+
+## 高校
+
+- [高校资源交流文档](https://docs.qq.com/sheet/DYWtwQ1ZVZHVRdklN?tab=yv7neq)
