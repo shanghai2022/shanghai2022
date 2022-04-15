@@ -55,6 +55,7 @@
 
 ## 自救团购物资与医疗信息汇总
 
+- [求助网站](https://www.helpothers.cn/help/)
 - [上海医院停复诊信息｜互联网医院问诊取药｜心理援助｜物资援助](https://docs.qq.com/sheet/DUGtlbFZpYUROZVlC)
 - [上海医疗紧急求助](https://docs.qq.com/sheet/DQkxnQmxjYndhdGlX)
 
@@ -66,3 +67,10 @@
 ## 高校
 
 - [高校资源交流文档](https://docs.qq.com/sheet/DYWtwQ1ZVZHVRdklN?tab=yv7neq)
+
+## 社区
+
+Just for a reference
+
+[【腾讯文档】上海街道居委红黑榜（2022）](https://docs.qq.com/sheet/DSUJPZE1GaHZicVpx )
+
